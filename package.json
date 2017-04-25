@@ -1,6 +1,6 @@
 {
   "name": "pimatic-bme280",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pimatic plugin for the bme280 barometric pressure sensor",
   "main": "pimatic-bme280",
   "files": [
