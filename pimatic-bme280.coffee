@@ -68,8 +68,8 @@ module.exports = (env) ->
     requestValue: ->
       @sensor.begin((err) =>
         @sensor.readPressureAndTemparature( (err, pressure, temperature, humidity) =>
-          @_pressure = pressure
-          @emit 'pressure', pressure
+          @_pressure = pressure/100
+          @emit 'pressure', pressure/100
       
           @_temperature = temperature
           @emit 'temperature', temperature
