@@ -1,4 +1,9 @@
 # pimatic-bme280
+
+
+[![npm version](https://badge.fury.io/js/pimatic-bme280.svg)](http://badge.fury.io/js/pimatic-bme280)
+[![dependencies status](https://david-dm.org/atus/pimatic-bme280/status.svg)](https://david-dm.org/atus/pimatic-bme280)
+
 A pimatic plugin for modules based on the [BME280](https://www.bosch-sensortec.com/bst/products/all_products/bme280) sensor. It uses the `node-bme280` driver from [CLCL/node-BME280](https://github.com/CLCL/node-BME280).
 
 ## Configuring device
