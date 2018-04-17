@@ -1,7 +1,7 @@
 {
-  "name": "pimatic-bme280-new",
+  "name": "pimatic-i2c-bme280",
   "version": "0.9.0",
-  "description": "Pimatic plugin for the bme280 barometric pressure sensor",
+  "description": "Pimatic plugin for the I2C bme280 barometric pressure sensor",
   "main": "pimatic-bme280",
   "files": [
     "README.md",
