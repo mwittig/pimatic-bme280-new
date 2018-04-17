@@ -7,7 +7,7 @@
 [downloads-image]: https://img.shields.io/npm/dm/pimatic-bme280.svg?style=flat
 [downloads-url]: https://npmjs.org/package/pimatic-bme280
 
-A pimatic plugin for modules based on the [BME280](https://www.bosch-sensortec.com/bst/products/all_products/bme280) sensor. It uses the `node-bme280` driver from [CLCL/node-BME280](https://github.com/CLCL/node-BME280).
+A pimatic plugin for modules based on the [BME280](https://www.bosch-sensortec.com/bst/products/all_products/bme280) sensor. It uses the `node-bme280` driver from [CLCL/node-BME280](https://github.com/CLCL/node-BME280). This is a fork of Alan Tusk's plugin project which apparently is no longer maintained. 
 
 ## Configuring device
 
